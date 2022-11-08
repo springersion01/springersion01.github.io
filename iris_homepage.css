@@ -1,0 +1,40 @@
+* {
+    font-family: 'Signika Negative';
+    
+}
+
+
+a {
+    color: white;
+    display:inline;
+    text-transform: uppercase;
+    text-decoration:none;
+    word-spacing: 20em;
+    text-align: justify;
+
+} 
+#dreams {
+    font-size: 100px;
+    text-align: center;
+    color:aliceblue;
+    
+}
+#dreamspara {
+    font-size: 32px;
+    text-align: center;
+    color:aliceblue;
+}
+body {
+    background-image: url(../Hiker.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#searchbar {
+    color:white;
+    border-radius: 2px;
+    border-color: white;
+    text-align: center;
+    font-size: 18px;
+}
